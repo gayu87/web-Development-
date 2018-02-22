@@ -1,0 +1,156 @@
+body
+	{
+	      background-position: center;
+         background-repeat: no-repeat;
+	 color:#d5e3ff;
+	 font-family:Arial;
+	 }
+#wrapper 
+	{ float:right;
+	margin:0 0 5px 5px;
+	border : 1px solid #0000000;
+}
+
+
+
+header
+	{  background-image: url(a.gif);
+	background-position: center;
+         background-repeat: no-repeat;	
+ text-decoration: none;
+	 display: block;
+	 text-align:center;
+	 		 
+        	 }
+
+h1
+	{  color:#fff8dc;
+		text-align: center;
+	 font-size: 3em;
+         padding:10px;
+         line-height: 150%;
+         text-shadow: 3px 3px 5px #CCC;
+		 }
+		
+nav  
+
+	{font-weight: bold; 
+	color:#0000FF;
+	 float: left;
+	 width: 150px;}
+nav ul
+        {list-style-type: none;}
+nav a 
+     {  background-image: url(p_1.gif);
+	background-position: center;
+        
+	  text-decoration: none;
+	 display: block;
+	 text-align:center;
+	 color:#ffffcc;
+	 font-weight:bold;
+	 border:3px outset #cccccc;
+	 border-color:yellow;
+	 padding: 5px;}
+	
+	nav a:link 
+                   {color: #3262a3;} 
+    nav a:visited
+                   {color: #6699ff;}
+	nav a:hover
+                   {color: #cccccc;}
+.category
+	{font-weight: bold;
+         background-color: #7fff00;
+	color:green;
+	 font-size: 1.1em;
+	 text-shadow: 1px 1px 1px #666;
+	 text-align: center;}
+
+main 
+       {margin-left: 180px;
+	   color:#0000FF;
+        padding-right: 20px;
+        padding-bottom: 20px;}
+
+body{background-color:gray;}
+
+
+img 
+       { border-style: none; }
+
+footer
+	{color:black;S
+		font-size: 1em;
+	 font-style:italic;
+         padding: 10px;
+         margin-left: 180px;}
+
+
+#footer-nav
+	{text-align:left;}
+
+header, nav, main, footer 
+        {display: block;}
+
+#mobile 
+	{display: none;}
+#desktop 
+	{display: inline;}
+label
+	{float: left;
+	display: block;
+    text-align: right;
+	 width: 8em;
+	 padding-right: 12px;
+	 }
+input, textarea
+	{display: block;
+	 margin-bottom: 1em;}
+#mySubmit
+	{margin-left: 10em;}
+
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:600px;
+    width:200px;
+    float:left;
+    padding:5px; 
+}
+#nav1 {color:black;
+    line-height:30px;
+    background-color:#eeeeee;
+    height:600px;
+    width:500px;
+    float:right;
+    padding:5px; 
+}
+#section {
+background-color:pink;
+    width:350px;
+	height:600px;
+    float:left;
+    
+}
+h2{color:black;}
+p{color:black;}
+label{color:black;}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+#footer{
+    background-color:brown;
+    color:white;
+    text-align:center;
+    padding:3px;
